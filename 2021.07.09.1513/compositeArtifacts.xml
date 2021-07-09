@@ -5,10 +5,9 @@
   <properties size='1'>
     <property name='p2.timestamp' value='1243822502440'/>
   </properties>
-  <children size='4'>
-    <child location='2021.06.15.1941'/>
-    <child location='2021.07.09.1410'/>
-    <child location='2021.07.09.1440'/>
-    <child location='2021.07.09.1513'/>
+  <children size='3'>
+    <child location='org.sireum.aadl.osate'/>
+    <child location='org.sireum.aadl.osate.cli'/>
+    <child location='org.sireum.aadl.osate.hamr'/>
   </children>
 </repository>
